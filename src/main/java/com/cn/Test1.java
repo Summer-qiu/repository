@@ -10,5 +10,6 @@ public class Test1 {
     }
     public void test1(){
         System.out.println("test1,改代码");
+        System.out.println("加油");
     }
 }
